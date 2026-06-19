@@ -11,8 +11,10 @@ Resources Created
 
 Remote State Configuration
 
-Execution Steps
+## High Level Design
 
-Benefits
+![HLD](diagrams/HLD_terraform_remote_backend.png)
 
-Author
+## Low Level Design
+
+![LLD](diagrams/LLD_terraform_remote_backend.png)
