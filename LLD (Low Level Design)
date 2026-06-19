@@ -1,0 +1,11 @@
+terraform-remote-backend
+│
+├── main.tf
+│
+├── variables.tf
+│
+├── terraform.tfvars
+│
+├── backend.tf
+│
+└── README.md
