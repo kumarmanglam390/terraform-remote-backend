@@ -1,0 +1,9 @@
+Developer executes Terraform.
+
+Terraform uses Azure Provider.
+
+Azure Provider creates Storage Account.
+
+Terraform State file is stored inside Blob Container.
+
+State remains centralized and secure.
