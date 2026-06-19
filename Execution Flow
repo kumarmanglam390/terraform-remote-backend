@@ -1,0 +1,13 @@
+terraform init
+      |
+      v
+backend.tf
+      |
+      v
+Azure Storage Account
+      |
+      v
+Blob Container
+      |
+      v
+terraform.tfstate
